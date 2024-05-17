@@ -26,6 +26,28 @@
     "publicThreads": [
         {
             "id": 1,
+            "name": "General",
+            "messages": [
+                {
+                    "id": 1,
+                    "user": 1,
+                    "content": "Hello"
+                },
+                {
+                    "id": 2,
+                    "user": 1,
+                    "content": "How are you?"
+                },
+                {
+                    "id": 3,
+                    "user": 2,
+                    "content": "Hello, Fine and you?"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Random",
             "messages": [
                 {
                     "id": 1,
