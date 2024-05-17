@@ -1,81 +1,82 @@
 {
-  "users": [],
-  "privateThreads": [
-    {
-      "id": 1,
-      "user": 2,
-      "messages": [
+    "users": [],
+    "privateThreads": [
         {
-          "id": 1,
-          "user": 1,
-          "content": "Hello"
-        },
-        {
-          "id": 2,
-          "user": 1,
-          "content": "How are you?"
-        },
-        {
-          "id": 3,
-          "user": 2,
-          "content": "Hello, Fine and you?"
+            "id": 1,
+            "user": 2,
+            "messages": [
+                {
+                    "id": 1,
+                    "user": 1,
+                    "content": "Hello"
+                },
+                {
+                    "id": 2,
+                    "user": 1,
+                    "content": "How are you?"
+                },
+                {
+                    "id": 3,
+                    "user": 2,
+                    "content": "Hello, Fine and you?"
+                }
+            ]
         }
-      ]
-    }
-  ],
-  "publicThreads": [
-    {
-      "messages": [
+    ],
+    "publicThreads": [
         {
-          "content": "test"
+            "messages": [
+                {
+                    "content": "test"
+                },
+                {
+                    "content": ""
+                },
+                {
+                    "content": "Test3"
+                },
+                {
+                    "content": "Test18"
+                },
+                {
+                    "content": "AAAA"
+                },
+                {
+                    "content": "jsdkghfkjsdhf"
+                },
+                {
+                    "content": "qsqsdqsd"
+                },
+                {
+                    "content": "°°°°°°°"
+                },
+                {
+                    "content": "°°°°°°°xwcwxcxc"
+                }
+            ],
+            "name": "General",
+            "id": 1
         },
         {
-          "content": ""
-        },
-        {
-          "content": "Test3"
-        },
-        {
-          "content": "Test18"
-        },
-        {
-          "content": "AAAA"
-        },
-        {
-          "content": "jsdkghfkjsdhf"
-        },
-        {
-          "content": "qsqsdqsd"
-        },
-        {
-          "content": "°°°°°°°"
-        },
-        {
-          "content": "°°°°°°°xwcwxcxc"
+            "id": 2,
+            "name": "Random",
+            "messages": [
+                {
+                    "id": 1,
+                    "user": 1,
+                    "content": "Hello"
+                },
+                {
+                    "id": 2,
+                    "user": 1,
+                    "content": "How are you?"
+                },
+                {
+                    "id": 3,
+                    "user": 2,
+                    "content": "Hello, Fine and you?"
+                }
+            ]
         }
-      ],
-      "id": 1
-    },
-    {
-      "id": 2,
-      "name": "Random",
-      "messages": [
-        {
-          "id": 1,
-          "user": 1,
-          "content": "Hello"
-        },
-        {
-          "id": 2,
-          "user": 1,
-          "content": "How are you?"
-        },
-        {
-          "id": 3,
-          "user": 2,
-          "content": "Hello, Fine and you?"
-        }
-      ]
-    }
-  ]
+    ]
 }
