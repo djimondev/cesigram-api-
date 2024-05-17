@@ -4,54 +4,16 @@
         {
             "id": 1,
             "user": 2,
-            "messages": [
-                {
-                    "id": 1,
-                    "user": 1,
-                    "content": "Hello"
-                },
-                {
-                    "id": 2,
-                    "user": 1,
-                    "content": "How are you?"
-                },
-                {
-                    "id": 3,
-                    "user": 2,
-                    "content": "Hello, Fine and you?"
-                }
-            ]
+            "messages": []
         }
     ],
     "publicThreads": [
         {
             "messages": [
                 {
-                    "content": "test"
-                },
-                {
-                    "content": ""
-                },
-                {
-                    "content": "Test3"
-                },
-                {
-                    "content": "Test18"
-                },
-                {
-                    "content": "AAAA"
-                },
-                {
-                    "content": "jsdkghfkjsdhf"
-                },
-                {
-                    "content": "qsqsdqsd"
-                },
-                {
-                    "content": "°°°°°°°"
-                },
-                {
-                    "content": "°°°°°°°xwcwxcxc"
+                    "content": "sdfsdfsd",
+                    "userId": "user_2gaYaSr24YFoEhON3NR8RgCTRmG",
+                    "userLogin": "@jimlefevre"
                 }
             ],
             "name": "General",
@@ -60,23 +22,7 @@
         {
             "id": 2,
             "name": "Random",
-            "messages": [
-                {
-                    "id": 1,
-                    "user": 1,
-                    "content": "Hello"
-                },
-                {
-                    "id": 2,
-                    "user": 1,
-                    "content": "How are you?"
-                },
-                {
-                    "id": 3,
-                    "user": 2,
-                    "content": "Hello, Fine and you?"
-                }
-            ]
+            "messages": []
         }
     ]
 }
